@@ -1,2 +1,1 @@
-print ("this is home page"
-)
+print ("this is home page")
